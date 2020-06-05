@@ -24,5 +24,6 @@
 			JSP	
 		Controller:
 			Servlet
-		
+	建立MySQL 會員資料
+			
 		
